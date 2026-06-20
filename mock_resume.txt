@@ -1,0 +1,30 @@
+John Doe
+Senior Software Engineer
+john.doe@example.com
++1-555-0199
+
+SUMMARY
+Experienced Software Engineer specializing in full-stack web development, backend APIs, and distributed systems.
+
+TECHNICAL SKILLS
+Languages: Java, JavaScript, TypeScript, SQL, HTML, CSS
+Frameworks: Spring Boot, React, Next.js, Hibernate, Express
+Databases: PostgreSQL, Redis, MySQL
+Tools: Docker, Git, Maven, npm
+
+EXPERIENCE
+Tech Solutions Inc. — Senior Software Engineer
+March 2021 – Present
+- Led the migration of a legacy monolithic backend to a Spring Boot microservice architecture.
+- Designed and built a real-time analytics dashboard using React and Redis caching.
+- Optimized SQL queries in PostgreSQL, improving dashboard loading times by 40%.
+
+Global Tech Corp — Software Engineer
+June 2018 – March 2021
+- Developed RESTful APIs in Java with Spring Boot.
+- Maintained responsive frontends in React and vanilla CSS.
+- Automated testing and deployment workflows using CI/CD pipelines.
+
+EDUCATION
+B.S. in Computer Science
+State University — 2014 - 2018

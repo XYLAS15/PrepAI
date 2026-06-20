@@ -1,0 +1,17 @@
+Position: Full Stack Engineer
+Company: Innovate Corp
+Location: Remote
+
+JOB DESCRIPTION:
+We are looking for a skilled Full Stack Engineer to join our core engineering team. You will be responsible for designing and developing robust backend APIs, building elegant user interfaces, and ensuring the application is performant, scalable, and responsive.
+
+REQUIRED SKILLS:
+- Strong experience with Java and Spring Boot.
+- Proficiency in React, TypeScript, and modern styling solutions.
+- Hands-on experience with databases such as PostgreSQL and Redis cache.
+- Familiarity with containerization tools (Docker).
+- Strong understanding of Data Structures and Algorithms (DSA) and system design.
+
+NICE TO HAVE:
+- Experience with AWS cloud infrastructure.
+- Familiarity with CI/CD pipelines.
